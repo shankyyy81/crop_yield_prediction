@@ -1,0 +1,76 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+.env/
+.venv/
+ENV/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.h5
+*.hdf5
+*.parquet
+*.feather
+*.json
+*.pickle
+*.pkl
+*.joblib
+*.npz
+*.npy
+
+# Model files
+*.sav
+*.h5
+*.hdf5
+*.pb
+*.pt
+*.pth
+*.onnx
+
+# Qiskit output
+*.qasm
+*.qobj
+*.log
+
+# Dot and image files
+*.dot
+*.png
+*.svg
+*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode and PyCharm
+.vscode/
+.idea/
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Misc
+*.bak
+*.swp
+*.tmp
+
+# Colab and Google Drive
+/content/
+drive/ 
